@@ -8,3 +8,7 @@
 ## Data:
 
 ### The data was a Microsoft Excel sheet made by the course sponsors, which was formatted and placed through a JavaScript program to automatically upload the data to the database, Google's Firestore database.
+
+## Notes:
+
+### My major contribution to this app was the design and data upload. Originally the app was a simple black and white style with a greyscale background that needed a facelift. This gave me experience in asset creation and implementation. I also created the JavaScript program mentioned in the section above.
