@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1067819395315-e64vp18gvcve90hrht2nmhsvn75rvk2r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1067819395315-e64vp18gvcve90hrht2nmhsvn75rvk2r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAoqbaWtjL9UWMS4bo0N82OleD--N9et0Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1067819395315</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Senior-Project.Flying-For-Food</string>
+	<key>PROJECT_ID</key>
+	<string>aviationteam6-4fcf0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aviationteam6-4fcf0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1067819395315:ios:89735466b9a1bf2e506f86</string>
+</dict>
+</plist>
