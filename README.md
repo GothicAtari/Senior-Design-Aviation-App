@@ -1,5 +1,5 @@
 # Senior-Design-Aviation-App
-### - Senior design app created using SwiftUI
+ Senior design app created using SwiftUI
 
 ## Description:
 
